@@ -1,4 +1,5 @@
 # 依存関係を定義
+#　環境設定
 
 discord.py==1.7.3
 python-dotenv==0.19.1
